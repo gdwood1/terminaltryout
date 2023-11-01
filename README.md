@@ -5,3 +5,6 @@ simple git tryout
 - HTML
 - CSS
 - GIT
+
+
+### Thanks!
